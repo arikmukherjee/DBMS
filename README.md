@@ -39,6 +39,22 @@ Here are some **classic and student-friendly DBMS books** I personally recommend
 - 📓 **Database Management Systems** – *Bipin Desai* (Good for beginners)
 
 ---
+## 📥 Free DBMS PDFs & Study Resources
+
+Here are **legally available or openly shared** DBMS materials and notes you can download right now:
+
+- 📄 **Free Database Fundamentals eBook** – covers basics of relational databases and SQL — PDF online resource:  
+  https://freecomputerbooks.com/Database-Fundamentals.html :contentReference[oaicite:0]{index=0}
+
+- 📘 **Open-content DBMS Notes (VTU/JNTU/Generic)** – free lecture notes in PDF covering core topics:  
+  - VTU DBMS Notes: links to unit-wise notes and full PDF materials. :contentReference[oaicite:1]{index=1}  
+  - JNTU DBMS Notes: similar structured notes for syllabus reference. :contentReference[oaicite:2]{index=2}
+
+- 📚 **DBMS Tutorial PDF (Basics & Concepts)** – PDF tutorial covering the fundamentals of DBMS systems and structures:  
+  https://en.pdfdrive.to/download/database-management-system-dbms-tutorial-tutorials-point-pdf :contentReference[oaicite:3]{index=3}
+
+---
+
 
 ## 💡 Contact Me For
 - 🌐 Web Development (Frontend / Backend)
